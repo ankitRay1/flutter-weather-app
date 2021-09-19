@@ -45,7 +45,6 @@ class _LoadingScreenState extends State<LoadingScreen> {
         child: SpinKitWave(
           color: Colors.white,
           size: 50.0,
-          duration: Duration(milliseconds: 1500),
         ),
       ),
     );
